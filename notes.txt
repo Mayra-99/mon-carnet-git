@@ -1,1 +1,1 @@
-mon carnet de notes  - jour 
+# taches du jour :\n -Maitrise les commandes git \n -Configurer le depot distant 
