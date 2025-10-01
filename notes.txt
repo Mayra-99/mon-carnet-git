@@ -1,1 +1,4 @@
-# taches du jour :\n -Maitrise les commandes git \n -Configurer le depot distant 
+ taches du jour :
+ -Maitrise les commandes git 
+ -Configurer le depot distant 
+
